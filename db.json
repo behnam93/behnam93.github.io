@@ -9,7 +9,7 @@
           "200g Tofu",
           "300ml Veg stock"
         ],
-        "img": "./images/Veggie-Stew.jpg",
+        "img": "/images/Veggie-Stew.jpg",
         "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
         "cookingTime": "45 minutes"
       },
@@ -22,7 +22,7 @@
           "1 Green pepper",
           "100g Mushrooms"
         ],
-        "img": "./images/Veggie-Pizza.jpg",
+        "img": "/images/Veggie-Pizza.jpg",
         "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasata, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
         "cookingTime": "35 minutes"
       },
@@ -36,7 +36,7 @@
           "Tomatoes",
           "Olive Oil"
         ],
-        "img": "./images/greek-salad.jpg",
+        "img": "/images/greek-salad.jpg",
         "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
         "cookingTime": "35 minutes"
       },
@@ -50,7 +50,7 @@
           "Caesar salad dressing",
           "Olive Oil"
         ],
-        "img": "./images/Caesar-Salad.jpg",
+        "img": "/images/Caesar-Salad.jpg",
         "method": "In a large mixing bowl, combine all of your ingredients and toss gently to coat the lettuce in caesar dressing. This recipe makes enough croutons for two full salads so you’ll have them ready to go for round 2!",
         "cookingTime": "30 minutes"
       },
@@ -67,7 +67,7 @@
           "600g fresh gnocchi",
           "125g mozzarella ball, cut into chunks"
         ],
-        "img": "./images/Chorizo-mozzarella-gnocchi-bake.jpg",
+        "img": "/images/Chorizo-mozzarella-gnocchi-bake.jpg",
         "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
         "cookingTime": "45 minutes"
       },
@@ -84,7 +84,7 @@
           "1 tbsp sesame seeds , to serve",
           "sticky rice, to serve"
         ],
-        "img": "./images/teriyaki-chicken.jpg",
+        "img": "/images/teriyaki-chicken.jpg",
         "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
         "cookingTime": "35 minutes"
       },
@@ -100,7 +100,7 @@
           "2 large eggs, lightly beaten",
           "2 tbsp golden syrup"
         ],
-        "img": "./images/chocolate-fudge-cake.jpg",
+        "img": "/images/chocolate-fudge-cake.jpg",
         "method": "Heat the oven to 180C/160C fan/gas 4. Oil and line the base of two 18cm sandwich tins. Sieve the flour, cocoa powder and bicarbonate of soda into a bowl. Add the caster sugar and mix well.",
         "cookingTime": "55 minutes"
       },
@@ -116,7 +116,7 @@
           "265g carrots (about 3), grated",
           "100g sultanas or raisins"
         ],
-        "img": "./images/carrot-cake.jpg",
+        "img": "/images/carrot-cake.jpg",
         "method": "Add the wet ingredients to the dry, along with the carrots, raisins and half the nuts, if using. Mix well to combine, then divide between the tins. Bake for 25-30 mins or until a skewer inserted into the centre of the cake comes out clean. If any wet mixture clings to the skewer, return to the oven for 5 mins, then check again. Leave to cool in the tins.",
         "cookingTime": "60 minutes"
       },
@@ -129,7 +129,7 @@
           "1 can chopped tomatoes",
           "1 ready-to-eat mixed grain pouch"
         ],
-        "img": "./images/Vegetarian-chilli.jpg",
+        "img": "/images/Vegetarian-chilli.jpg",
         "method": "Heat oven to 200C/180C fan/ gas 6. Cook the vegetables in a casserole dish for 15 mins. Tip in the beans and tomatoes, season, and cook for another 10-15 mins until piping hot. Heat the pouch in the microwave on High for 1 min and serve with the chilli.",
         "cookingTime": "32 minutes"
       },
@@ -147,7 +147,7 @@
           "buns , salsa, onion and salad leaves, to serve",
           "1 tbsp ground cumin"
         ],
-        "img": "./images/vegan-burgers.jpg",
+        "img": "/images/vegan-burgers.jpg",
         "method": "Heat oven to 200C/180C fan/gas 6. Pierce the potato skins and place on a baking tray. Bake for 45 mins until really soft. Remove from the oven and leave to cool. Meanwhile, heat the oil in a small pan, add the onions and chillies, and cook for 8-10 mins until soft. Leave to cool. Light the barbecue. When the flames have died down, place a large, well-oiled non-stick frying pan or sturdy baking tray on top of the bars. Cook the burgers in the pan or on the tray for 10 mins each side until nicely browned. Alternatively, heat oven to 220C/200C fan/gas 7 and cook on oiled.",
         "cookingTime": "1 hr and 10 mins"
       },
@@ -164,7 +164,7 @@
           "2 eggs",
           "2 large ripe bananas, mashed"
         ],
-        "img": "./images/banana-muffins.jpg",
+        "img": "/images/banana-muffins.jpg",
         "method": "Heat the oven to 190C/170C Fan/gas 5. Line a 12-hole muffin tin with paper cases. Sift together the flour, baking powder, bicarbonate of soda and caster sugar with a big pinch of salt. In a separate bowl mix the melted butter, vanilla extract, eggs, mashed bananas and buttermilk.",
         "cookingTime": "25 minutes"
       },
@@ -178,7 +178,7 @@
           "300ml water",
           "2 eggs"
         ],
-        "img": "./images/White-bread.jpg",
+        "img": "/images/White-bread.jpg",
         "method": "Mix 500g strong white flour, 2 tsp salt and a 7g sachet of fast-action yeast in a large bowl. Make a well in the centre, then add 3 tbsp olive oil and 300ml water, and mix well. If the dough seems a little stiff, add another 1-2 tbsp water and mix well.",
         "cookingTime": "2 hours"
       }
