@@ -118,22 +118,6 @@
         "cookingTime": "55 minutes"
       },
       {
-        "id": "8",
-        "title": "Vegetarian lasagne",
-        "ingredients": [
-          "3 red peppers, cut into large chunks",
-          "2 aubergines, cut into ½ cm thick slices",
-          "8 tbsp olive oil, plus extra for the dish",
-          "300g lasagne sheets",
-          "125g mozzarella",
-          "handful cherry tomatoes, halved",
-          "1 tbsp olive oil"
-        ],
-        "img": "./images/Vegetarian-lasagne.jpg",
-        "method": "To make the tomato sauce, heat the olive oil in a saucepan. Add the onions, garlic and carrot. Cook for 5-7 mins over a medium heat until softened. Turn up the heat a little and stir in the tomato purée. Cook for 1 min, pour in the white wine, then cook for 5 mins until this has reduced by two-thirds. Pour over the chopped tomatoes and add the basil leaves. Bring to the boil then simmer for 20 mins. Leave to cool then whizz in a food processor. To make the white sauce, melt the butter in a saucepan, stir in the plain flour, then cook for 2 mins. Slowly whisk in the milk, then bring to the boil, stirring. Turn down the heat, then cook until the sauce starts to thicken and coats the back of a wooden spoon.",
-        "cookingTime": "1 hr and 10 mins"
-      },
-      {
         "id": "9",
         "title": "Chicken curry",
         "ingredients": [
@@ -146,7 +130,7 @@
           "1 tbsp olive oil"
         ],
         "img": "./images/chicken-curry.jpg",
-        "method": "Heat the oil in a flameproof casserole dish or large frying pan over a medium heat. Add the onion and a generous pinch of salt and fry for 8-10 mins, or until the onion has turned golden brown and sticky. Add the garlic and ginger, cooking for a further minute. Chop the chicken into chunky 3cm pieces, add to the pan and fry for 5 mins before stirring through the spice paste and tomatoes, along with 250ml water. Bring to the boil, lower to a simmer and cook on a gentle heat uncovered for 25-30 mins or until rich and slightly reduced. Stir though the yogurt, coriander and ground almonds, season and serve with warm naan or fluffy basmati rice.",
+        "method": "Heat the oil in a flameproof casserole dish or large frying pan over a medium heat. Add the onion and a generous pinch of salt and fry for 8-10 mins, or until the onion has turned golden brown and sticky. Add the garlic and ginger, cooking for a further minute. Chop the chicken into chunky 3cm pieces, add to the pan and fry for 5 mins before stirring through the spice paste and tomatoes, along with 250ml water. Bring to the boil, lower to a simmer and cook on a gentle heat uncovered for 25-30 mins or until rich and slightly reduced. Stir though the yogurt.",
         "cookingTime": "55 minutes"
       },
       {
@@ -210,7 +194,7 @@
           "1 tbsp ground cumin"
         ],
         "img": "./images/vegan-burgers.jpg",
-        "method": "Heat oven to 200C/180C fan/gas 6. Pierce the potato skins and place on a baking tray. Bake for 45 mins until really soft. Remove from the oven and leave to cool. Meanwhile, heat the oil in a small pan, add the onions and chillies, and cook for 8-10 mins until soft. Leave to cool. Light the barbecue. When the flames have died down, place a large, well-oiled non-stick frying pan or sturdy baking tray on top of the bars. Cook the burgers in the pan or on the tray for 10 mins each side until nicely browned. Alternatively, heat oven to 220C/200C fan/gas 7 and cook on oiled baking trays for 15 mins. Serve in buns with a dollop of salsa, some onion and salad leaves.",
+        "method": "Heat oven to 200C/180C fan/gas 6. Pierce the potato skins and place on a baking tray. Bake for 45 mins until really soft. Remove from the oven and leave to cool. Meanwhile, heat the oil in a small pan, add the onions and chillies, and cook for 8-10 mins until soft. Leave to cool. Light the barbecue. When the flames have died down, place a large, well-oiled non-stick frying pan or sturdy baking tray on top of the bars. Cook the burgers in the pan or on the tray for 10 mins each side until nicely browned. Alternatively, heat oven to 220C/200C fan/gas 7 and cook on oiled.",
         "cookingTime": "1 hr and 10 mins"
       },
       {
@@ -227,7 +211,7 @@
           "2 large ripe bananas, mashed"
         ],
         "img": "./images/banana-muffins.jpg",
-        "method": "Heat the oven to 190C/170C Fan/gas 5. Line a 12-hole muffin tin with paper cases. Sift together the flour, baking powder, bicarbonate of soda and caster sugar with a big pinch of salt. In a separate bowl mix the melted butter, vanilla extract, eggs, mashed bananas and buttermilk. Make a well in the centre of the dry ingredients and pour the wet ingredients in. Roughly mix together with a fork, being careful not to over-mix.",
+        "method": "Heat the oven to 190C/170C Fan/gas 5. Line a 12-hole muffin tin with paper cases. Sift together the flour, baking powder, bicarbonate of soda and caster sugar with a big pinch of salt. In a separate bowl mix the melted butter, vanilla extract, eggs, mashed bananas and buttermilk.",
         "cookingTime": "25 minutes"
       },
       {
@@ -241,21 +225,8 @@
           "2 eggs"
         ],
         "img": "./images/White-bread.jpg",
-        "method": "Mix 500g strong white flour, 2 tsp salt and a 7g sachet of fast-action yeast in a large bowl. Make a well in the centre, then add 3 tbsp olive oil and 300ml water, and mix well. If the dough seems a little stiff, add another 1-2 tbsp water and mix well. Tip onto a lightly floured work surface and knead for around 10 mins.",
+        "method": "Mix 500g strong white flour, 2 tsp salt and a 7g sachet of fast-action yeast in a large bowl. Make a well in the centre, then add 3 tbsp olive oil and 300ml water, and mix well. If the dough seems a little stiff, add another 1-2 tbsp water and mix well.",
         "cookingTime": "2 hours"
-      },
-      {
-        "id": "16",
-        "title": "Strawberry ice cream",
-        "ingredients": [
-          "1 x 400g punnet strawberries",
-          "1 x 250g tub mascarpone",
-          "½ x 397g can condensed milku",
-          "cones and sprinkles , to serve"
-        ],
-        "img": "./images/Strawberry-ice-cream.jpg",
-        "method": "Pull the green hulls out of the strawberries. If they are still quite hard, cut them in half or quarters with a table knife. Tip them into a flat-bottomed dish. Use a potato masher to squash the strawberries as much as you can. Tip into a bowl. Ask your grown-up helper to give you a hand if you need to. Add the mascarpone and mash this in – don’t worry if it is a bit lumpy. Add the condensed milk and mix everything together. Don’t worry if the mix is streaky.",
-        "cookingTime": "30 mins, plus freezing"
       }
     ]
   }
