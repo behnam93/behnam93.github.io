@@ -121,23 +121,6 @@
         "cookingTime": "60 minutes"
       },
       {
-        "id": "11",
-        "title": "Beef hotpot",
-        "ingredients": [
-          "2 onions",
-          "300g carrots",
-          "1kg potatoes",
-          "450g lean minced beef",
-          "400g can baked beans",
-          "splash of Worcestershire sauce",
-          "handful of roughly chopped parsley",
-          "100g sultanas or raisins"
-        ],
-        "img": "./images/beef-hotpot.jpg",
-        "method": "Cut each onion into eight wedges. Roughly chop the carrots and cut the potatoes into large chunks. Put the kettle on. Heat a large non-stick pan, add the mince and fry quickly, stirring all the time, until evenly browned. Crumble in the stock cubes and mix well. Add the prepared vegetables, stir them around, then pour in 900ml/1½ pints of hot water from the kettle. Bring to the boil.",
-        "cookingTime": "45 minutes"
-      },
-      {
         "id": "12",
         "title": "Vegetarian chilli",
         "ingredients": [
