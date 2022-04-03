@@ -55,19 +55,6 @@
         "cookingTime": "30 minutes"
       },
       {
-        "title": "Apple Pie",
-        "ingredients": [
-          "2 ½ cups flour(315 g)",
-          "1 teaspoon salt",
-          "1 ½ sticks butter, 1 1/2 sticks, cold, cubed",
-          "8 tablespoons ice water, or as needed"
-        ],
-        "img": "./images/Apple-Pie.jpg",
-        "method": "In a medium-sized bowl, add the flour and salt. Mix with fork until combined. Add in cubed butter and break up into flour with a fork. Mixture will still have lumps about the size of small peas. Gradually add the ice water and continue to mix until the dough starts to come together. You may not need all of the water, but if the dough is too dry then add more. The dough should not be very tacky or sticky. Work the dough together with your hands and turn out onto a surface. Work into a ball and cover with cling wrap. Refrigerate. Preheat the oven to 375°F (200°C).",
-        "cookTime": "60 minutes",
-        "id": "CV0evgy"
-      },
-      {
         "id": "5",
         "title": "Chorizo & mozzarella bake",
         "ingredients": [
@@ -115,22 +102,6 @@
         ],
         "img": "./images/chocolate-fudge-cake.jpg",
         "method": "Heat the oven to 180C/160C fan/gas 4. Oil and line the base of two 18cm sandwich tins. Sieve the flour, cocoa powder and bicarbonate of soda into a bowl. Add the caster sugar and mix well.",
-        "cookingTime": "55 minutes"
-      },
-      {
-        "id": "9",
-        "title": "Chicken curry",
-        "ingredients": [
-          "2 tbsp sunflower oil",
-          "2  onion, thinly sliced",
-          "2 garlic cloves, crushed",
-          "6 chicken thighs, boneless and skinless",
-          "125g mozzarella",
-          "400g can chopped tomatoes",
-          "1 tbsp olive oil"
-        ],
-        "img": "./images/chicken-curry.jpg",
-        "method": "Heat the oil in a flameproof casserole dish or large frying pan over a medium heat. Add the onion and a generous pinch of salt and fry for 8-10 mins, or until the onion has turned golden brown and sticky. Add the garlic and ginger, cooking for a further minute. Chop the chicken into chunky 3cm pieces, add to the pan and fry for 5 mins before stirring through the spice paste and tomatoes, along with 250ml water. Bring to the boil, lower to a simmer and cook on a gentle heat uncovered for 25-30 mins or until rich and slightly reduced. Stir though the yogurt.",
         "cookingTime": "55 minutes"
       },
       {
